@@ -1,0 +1,27 @@
+.login-container {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.login-container .login-logo {
+  height: 260px;
+  line-height: 260px;
+  text-align: center;
+  background-color: green;
+  color: #fff;
+}
+
+.login-container .login-form {
+  padding: 10px;
+}
+
+.login-container .login-third {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.login-container .login-third i {
+  margin-left: 10px;
+}
